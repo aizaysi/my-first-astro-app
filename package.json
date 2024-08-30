@@ -1,0 +1,17 @@
+{
+  "name": "manual",
+  "version": "1.0.0",
+  "description": "manual Astro",
+  "main": "index.js",
+  "scripts": {
+    "test": "astro test"
+  },
+  "keywords": [
+    "astro"
+  ],
+  "author": "aizaysi",
+  "license": "ISC",
+  "dependencies": {
+    "astro": "^4.15.1"
+  }
+}
